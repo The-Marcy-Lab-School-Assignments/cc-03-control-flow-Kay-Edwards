@@ -1,7 +1,10 @@
 //1
-function countToTen(){
-  
-}
+function countToTen() {
+    let i = 10;
+    if(i<=10){
+       console.log(i);
+    }
+} 
 
 //2
 function countFromOne(){
@@ -23,3 +26,4 @@ function countEvens(){
   
 }
 
+countToTen();
